@@ -1,0 +1,35 @@
+// Place all the styles related to the weather controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  color: #002222;
+  background-color: papayawhip;
+  text-align: center;
+}
+
+img{
+  width: 100px;
+}
+
+.container{
+  padding-left: 10%;
+  padding-right: 10%;
+  width: 300px;
+}
+input {
+  margin-right: 30px;
+  margin: 2%;
+}
+
+#submit{
+  margin-left: 10px;
+}
+
+.bold{
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+.div{
+  margin-left:30px;
+}
